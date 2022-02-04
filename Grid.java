@@ -1,8 +1,6 @@
 //1801713
 //Mare Sorin-Alexandru
 
-package MineSweeper;
-
 import java.awt.*;
 import java.util.Collections;
 import java.util.Vector;

@@ -1,7 +1,5 @@
 //Mare Sorin-Alexandru
 
-package MineSweeper;
-
 import java.io.*;
 
 public abstract class TopScores

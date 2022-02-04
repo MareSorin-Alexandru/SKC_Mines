@@ -1,7 +1,5 @@
 //Mare Sorin-Alexandru
 
-package MineSweeper;
-
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

@@ -1,8 +1,6 @@
 //1801713
 //Mare Sorin-Alexandru
 
-package MineSweeper;
-
 import javax.swing.*;
 import java.awt.*;
 

@@ -1,5 +1,3 @@
-package MineSweeper;
-
 public abstract class GameSetup
 {
     public static void gameSetupAux(Game game, int difficulty)

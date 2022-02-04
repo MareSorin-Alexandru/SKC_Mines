@@ -1,7 +1,5 @@
 //Mare Sorin-Alexandru
 
-package MineSweeper;
-
 import java.awt.*;
 
 public class Tile {

@@ -1,7 +1,5 @@
 //Mare Sorin-Alexandru
 
-package MineSweeper;
-
 public abstract class ScoreAreaHandler
 {
     private static String[][] Scores = new String[3][5];
